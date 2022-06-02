@@ -12,6 +12,7 @@
      - APP Engine to host API
      - Firebase for persistant
 - Github/IntelliJ/GCP CLI for continuous integration
-- 
+
 **MY LASTEST iOS APP**
+
 <img alt="alt text" src="https://github.com/xyordyx/PUBLICInvestment_iOS/blob/17c746dee61104c11a630af0c83246d9a01d8c57/InvesmentiOS/Assets.xcassets/main-4.gif" width="270"/> <img alt="alt text" src="https://github.com/xyordyx/PUBLICInvestment_iOS/blob/17c746dee61104c11a630af0c83246d9a01d8c57/InvesmentiOS/Assets.xcassets/Extra.gif" width="270"/>
