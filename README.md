@@ -9,7 +9,7 @@
 
 **What I used?**
 - Swift 5 for iOS APP
-- Java 11 for RESTful API
+- Java 11 with Spring Boot for RESTful API
 - Google Cloud Platform:
      - APP Engine to host the API
      - Firebase Database
